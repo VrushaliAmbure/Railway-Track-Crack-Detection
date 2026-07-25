@@ -38,6 +38,15 @@ This project is designed to detect cracks on railway tracks automatically using 
 
 ---
 
+## ✨ Features
+
+- Automatic railway track crack detection
+- Real-time image capture
+- Computer Vision using OpenCV
+- Raspberry Pi based implementation
+- Low-cost prototype
+- Easy to upgrade with AI and IoT
+
 ## 🛠 Hardware Components
 
 - Raspberry Pi 4
@@ -58,6 +67,16 @@ This project is designed to detect cracks on railway tracks automatically using 
 - VS Code
 
 ---
+
+## 🧰 Technologies Used
+
+| Category | Technology |
+|----------|------------|
+| Programming | Python |
+| Image Processing | OpenCV |
+| Hardware | Raspberry Pi 4 |
+| IDE | VS Code |
+| Operating System | Raspberry Pi OS |
 
 ## ⚙️ Working Principle
 
