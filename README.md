@@ -3,6 +3,13 @@
 An AI-powered railway track crack detection system using Raspberry Pi and Computer Vision to improve railway safety.
 
 ---
+## 📷 Prototype
+
+<p align="center">
+  <img src="Images/prototype.jfif" width="600" alt="Railway Track Crack Detection Prototype">
+</p>
+
+---
 
 ## 📖 Project Overview
 
