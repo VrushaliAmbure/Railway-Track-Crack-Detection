@@ -10,6 +10,18 @@ An AI-powered railway track crack detection system using Raspberry Pi and Comput
 </p>
 
 ---
+## 📑 Table of Contents
+
+- [📖 Project Overview](#-project-overview)
+- [🎯 Objectives](#-objectives)
+- [🛠 Hardware Components](#-hardware-components)
+- [💻 Software](#-software)
+- [⚙️ Working Principle](#️-working-principle)
+- [📁 Repository Structure](#-repository-structure)
+- [🚀 Future Scope](#-future-scope)
+- [👩‍💻 Author](#-author)
+
+---
 
 ## 📖 Project Overview
 
